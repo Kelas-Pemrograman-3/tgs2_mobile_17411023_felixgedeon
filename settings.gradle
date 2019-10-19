@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='tgs2_mobile_felixgedeon_17411023'
